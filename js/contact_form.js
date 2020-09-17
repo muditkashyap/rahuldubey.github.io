@@ -93,7 +93,7 @@
             var thankYouMessage = form.querySelector(".thankyou_message");
             if (thankYouMessage) {
               thankYouMessage.style.display = "block";
-              setTimeout(window.location.replace("http://www.w3schools.com"), 2000)
+              setTimeout(window.location.replace(""), 2000)
             }
             return;
         };
